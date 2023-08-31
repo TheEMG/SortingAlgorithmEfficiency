@@ -80,11 +80,6 @@ public class SortingAlgorithms {
 
 		}
 		System.out.println("-----------------------------------------");
-
-
-		//		int [] test = {8, 2, 5, 7, 90};
-		//		mergeSort(test);
-		//		output("MergeSort",5,comparisons);
 	}
 	//method to populate an array with randomized integers 
 
